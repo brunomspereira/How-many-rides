@@ -13,3 +13,4 @@ on the board starting from (*a, b*).
 ## **Sample input**
 4 2 0 0
 ## **Sample output**
+8
